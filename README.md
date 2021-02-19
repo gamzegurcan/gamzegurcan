@@ -24,7 +24,7 @@ I'm a  student  in Computer Engineering at Karabuk University. I'm a passionate 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 Dart| Flutter | Firebase
+- 🔧 Dart | Flutter | Firebase
 
 <hr>
 
