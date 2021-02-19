@@ -15,12 +15,20 @@ I'm a  student  in Computer Engineering at Karabuk University. I'm a passionate 
 - 💬 Ask me about anything, I would be glad to help (if I could ✨).
 
 <br>
-<br>
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C%20-%23E34F26.svg?&style=for-the-badge&logo=C&logoColor=white)
-![Python](https://img.shields.io/badge/python%20-%23E34F26.svg?&style=for-the-badge&logo=python&ogoColor=white)
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 HTML | CSS | Python | C | PHP-Laravel | ASP.Net Mvc   
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 Dart| Flutter | Firebase
+
+<hr>
+
+<br/><br/>
 
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=gamzegurcan&show_icons=true" /></p>
