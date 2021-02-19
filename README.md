@@ -8,10 +8,6 @@
 I'm a  student  in Computer Engineering at Karabuk University. I'm a passionate learner who's always willing to learn and work across technologies and domains. I'm currently into Artifical Intelligence 🕸️ and working on Recommendation System Algorithms 🤓.Other than that i am interested in flutter
 
 <br />
-
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
-
-
 ### Know more about me:
 
 - 🔭 I’m currently exploring AI 🚀.
