@@ -12,9 +12,15 @@ I'm a  student  in Computer Engineering at Karabuk University. I'm a passionate 
 
 - 🔭 I’m currently exploring AI 🚀.
 - 🌱 I’m currently learning Flutter.
-- 💬 Ask me about anything, I would be glad to help (if I could ✨).
+  
 
 <br>
+### 💬 Coonect with me:
+
+-  gmzgrcn18812@icloud.com
+-  https://www.linkedin.com/in/gamzegurcan/
+-  https://twitter.com/gamzegurcann
+   
 
 <h3>🛠 Tech Stack</h3>
 
