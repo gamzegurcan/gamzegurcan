@@ -15,7 +15,7 @@ I'm a  student  in Computer Engineering at Karabuk University. I'm a passionate 
   
 
 <br>
-### 💬 Coonect with me:
+### 💬 Connect with me:
 
 -  gmzgrcn18812@icloud.com
 -  https://www.linkedin.com/in/gamzegurcan/
