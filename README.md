@@ -5,7 +5,7 @@
 
 
 ### Glad to see you here! 🤩 &nbsp;
-I'm a  student  in Computer Engineering at Karabuk University. I'm a passionate learner who's always willing to learn and work across technologies and domains. I'm currently into Artifical Intelligence 🕸️ and working on Recommendation System Algorithms 🤓.Other than that i am interested in flutter
+I graduated from Karabuk University Computer Engineering. I'm a passionate learner who's always willing to learn and work across technologies and domains. I'm currently into Artifical Intelligence 🕸️ and working on Recommendation System Algorithms 🤓.Other than that i am interested in flutter
 
 <br />
 ### Know more about me:
