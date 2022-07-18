@@ -5,16 +5,8 @@
 
 
 ### Glad to see you here! 🤩 &nbsp;
-I graduated from Karabuk University Computer Engineering. I'm a passionate learner who's always willing to learn and work across technologies and domains. I'm currently into Artifical Intelligence 🤓 Other than that I am interested in Flutter 💙
-
 <br />
-Know more about me:
-
-- 🔭 I’m currently exploring AI 🚀.
-- 🌱 I’m currently learning Flutter.
   
-
-<br>
 💬 Connect with me:
 
 -  gmzgrcn18812@icloud.com
@@ -26,7 +18,7 @@ Know more about me:
 
 
 
-- 💻 HTML | CSS | JavaScript | Python | C | PHP-Laravel | ASP.Net Mvc   
+- 💻 HTML | CSS | JavaScript |  Reactjs | PHP-Laravel | ASP.Net Mvc   
 
 <h3>🛠 To Learn</h3>
 
