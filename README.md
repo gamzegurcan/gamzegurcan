@@ -18,7 +18,7 @@
 
 
 
-- 💻 HTML | CSS | JavaScript |  Reactjs | PHP-Laravel | ASP.Net Mvc   
+- 💻 HTML | CSS | JavaScript |  Reactjs |   
 
 <h3>🛠 To Learn</h3>
 
