@@ -28,12 +28,6 @@
 
 <br/><br/>
 
-
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=gamzegurcan&show_icons=true" /></p>
-
-
-
-
 **Visitors Count**  
 ![VisitorCount](https://profile-counter.glitch.me/{gamzegurcan}/count.svg)
 
